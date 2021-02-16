@@ -1,0 +1,33 @@
+nav{
+    background-color: rgba(22, 63, 68, 0.39);
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    overflow: auto;
+    height: fit-content;
+}
+img{
+    padding-left: 25px;
+    width:40%;
+}
+
+
+
+h1{
+    font-family: sans-serif;
+    text-align: center;
+    padding:5px;
+}
+p{
+    font-style: italic;
+    font-size: larger;
+    padding:5px;
+
+}
+
+h3{
+    font-size: larger;
+}
+a{
+    padding:5px;
+}

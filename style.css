@@ -1,0 +1,27 @@
+nav{
+    background-color: rgba(22, 63, 68, 0.39);
+    position: relative;
+    list-style-type: none;
+    width: 100%;
+    overflow: auto;
+    height: fit-content;
+}
+body {
+    margin: 0;
+    background-image: url(pic.jpg);
+    background-size: cover;
+    font-style: italic;
+}
+img {
+    border-radius: 25px;
+    height: 400px;
+    width: 300px;
+    float:right;
+}
+
+
+i {
+    font-weight: bold;
+    padding-top: 10px;
+    margin: auto;
+}
